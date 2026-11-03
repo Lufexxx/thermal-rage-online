@@ -1,0 +1,1 @@
+{"name":"thermal-rage-online","version":"1.0.0","private":true,"description":"Cyberpunk neon FPS 1v1 with hosted room codes","scripts":{"start":"node server.js"},"engines":{"node":">=20"},"dependencies":{"ws":"^8.18.0"}}
